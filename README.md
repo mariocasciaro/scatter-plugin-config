@@ -3,7 +3,7 @@
 
 # Synopsis
 
-Allows the [Scatter](https:/github.com/mariocasciaro/scatter) IoC container to inject 
+Allows the [Scatter](https://github.com/mariocasciaro/scatter) IoC container to inject 
 configuration parameters. Internally it loads the `config` module (by default) and invokes a 
 `get` using the given config parameter.
 
