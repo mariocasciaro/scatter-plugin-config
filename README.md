@@ -1,5 +1,5 @@
 [![NPM version](https://badge.fury.io/js/scatter-plugin-config.png)](http://badge.fury.io/js/scatter-plugin-config)
-[![Dependency Status](https://gemnasium.com/mariocasciaro/minimodel.png)](https://gemnasium.com/mariocasciaro/minimodel)
+[![Build Status](https://travis-ci.org/mariocasciaro/scatter-plugin-config.png)](https://travis-ci.org/mariocasciaro/scatter-plugin-config)
 
 # Synopsis
 

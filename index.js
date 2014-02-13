@@ -1,6 +1,4 @@
 
-
-
 function ConfigPlugin(configModuleName) {
   this.configModuleName = configModuleName || 'config';
 }
